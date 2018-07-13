@@ -1,4 +1,4 @@
 <?php
-aaaaaaaaaaa;
+bbbbbb;
 phpinfo();
 ?>
