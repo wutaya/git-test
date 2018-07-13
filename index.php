@@ -1,4 +1,5 @@
 <?php
 aaaaaaaaaaa;
+about;
 phpinfo();
 ?>
